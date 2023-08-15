@@ -1,23 +1,23 @@
 <div align="center">
   <img height="60" src="https://img.icons8.com/color/344/javascript.png">
-  <h1>JavaScript Questions</h1>
+  <h1>سوالات جاوااسکریپت</h1>
 
 ---
 
-<span>I post multiple choice JavaScript questions on my [Instagram](https://www.instagram.com/theavocoder) **stories**, which I'll also post here! Last updated: <a href=#20200612><b>June 12th</b></a>
+<span>من سوالات چند گزینه ای جاوا اسکریپت رو در **استوری های** [اینستاگرام](https://www.instagram.com/theavocoder)  ام پست کردم, که در اینجا هم پست خواهم کرد! آخرین اپدیت: <a href=#20200612><b>June 12th</b></a>
 
-From basic to advanced: test how well you know JavaScript, refresh your knowledge a bit, or prepare for your coding interview! :muscle: :rocket: I update this repo regularly with new questions. I added the answers in the **collapsed sections** below the questions, simply click on them to expand it. It's just for fun, good luck! :heart:</span>
+از پایه تا پیشرفته: تست کنید که چقدر جاوااسکریپت بلدید, دانش خود را کمی بروزرسانی کنید, یا خود را برای مصاحبه کد نویسی آماده کنید! :muscle: :rocket: من این ریپازیتوری را با سوالات جدید مصاحبه بروزسانی خواهم کرد. من جواب سوالات را به قسمت **collapsed sections** در زیر سوالات اضافه کردم, به سادگی برای باز شدن روی آن کلیک کنید. این فقط برای سرگرمی است, موفق باشید! :heart:</span>
 
-Feel free to reach out to me! 😊 <br />
+با خیال راحت با من تماس بگیرید! 😊 <br />
 <a href="https://www.instagram.com/theavocoder">Instagram</a> || <a href="https://www.twitter.com/lydiahallie">Twitter</a> || <a href="https://www.linkedin.com/in/lydia-hallie">LinkedIn</a> || <a href="https://www.lydiahallie.dev">Blog</a>
 </div>
 
-| Feel free to use them in a project! 😃  I would _really_ appreciate a reference to this repo, I create the questions and explanations (yes I'm sad lol) and the community helps me so much to maintain and improve it! 💪🏼 Thank you and have fun!   |
+با خیال راحت از آنها در یک پروژه استفاده کنید! 😃  من _واقعا_ قدردان ارجاع به این مخزن هستم, من سوالات و جواب آنها را ساختم و جامعه به من کمک زیادی کرد که آن را حفظ و بهتر کنم! 💪🏼 با تشکر لذت ببرید!   |
 |---|
 
 ---
 
-<details><summary><b> See 22 Available Translations 🇸🇦🇪🇬🇧🇦🇩🇪🇪🇸🇫🇷🇮🇩🇯🇵🇰🇷🇳🇱🇧🇷🇷🇺🇹🇭🇹🇷🇺🇦🇻🇳🇨🇳🇹🇼🇽🇰</b></summary>
+<details><summary><b> ترجمه به 22 زبان دیگیر 🇸🇦🇪🇬🇧🇦🇩🇪🇪🇸🇫🇷🇮🇩🇯🇵🇰🇷🇳🇱🇧🇷🇷🇺🇹🇭🇹🇷🇺🇦🇻🇳🇨🇳🇹🇼🇽🇰</b></summary>
 <p>
 
 - [🇸🇦 العربية](./ar-AR/README_AR.md)
